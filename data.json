@@ -1,0 +1,24 @@
+{	
+	"Codes": {
+		"C++": [".cpp"],
+		"Python" :[".py"], 
+		"C": [".c"],
+		"Verilog": [".v"],
+		"JavaScript": [".js"]
+		},
+
+	"Images": {
+		"Images": [".png", ".jpg", ".jpeg"]
+	},
+	"Setup Files": {
+		"Linux": [".deb"],
+		"Windows":[".exe"],
+		"Mac": [".dmg"],
+		"iOS": [],
+		"Android": [".apk"]
+	},
+	"Videos" : {
+		"Videos": [".mp4", ".mkv", ".flv"]
+	}
+
+}
